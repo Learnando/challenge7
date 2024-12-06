@@ -1,10 +1,9 @@
-# tit
+#My first README generator
 
 ![MIT License](https://img.shields.io/badge/LicenseMIT-MIT-yellow.svg)
 
-
 ## Description
-desc
+A cool project that answers Questions
 
 ## Table of Contents
 - [Installation](#installation)
@@ -15,18 +14,20 @@ desc
 - [Questions](#questions)
 
 ## Installation
-inst
+npm install
 
 ## Usage
-usage
+node.js
 
 ## Contribution
-ddd
+wesley
 
 ## Tests
-bbbf
+npm test
 
 
 ## Questions
+
 For any questions, you can reach me at: 
+louiswesley1998@gmail.com
   

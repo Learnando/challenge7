@@ -70,7 +70,9 @@ ${data.tests}
 
 
 ## Questions
+
 For any questions, you can reach me at: 
+${data.email}
   `;
 
 
